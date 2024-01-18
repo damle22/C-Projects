@@ -1,0 +1,7 @@
+loadmap Africa.map
+validatemap
+addplayer 1
+addplayer 2
+gamestart
+gameend
+quit

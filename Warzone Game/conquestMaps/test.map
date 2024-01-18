@@ -1,0 +1,9 @@
+[Continents]
+Green=4
+Red=3
+
+[Territories]
+A,127,46,Green,B,C
+B,193,85,Green,A,D
+C,252,33,Red,A,D
+D,314,94,Red,B,C
